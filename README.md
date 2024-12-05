@@ -1,0 +1,1 @@
+This notebook implements a simple Vanilla GAN to create MNIST digits using PyTorch. You will build the generator and discriminator components of a GAN from scratch. You will create generator and discriminator loss functions. During the training the model will display how well it can generate digits and you will see how it improves over time. 
